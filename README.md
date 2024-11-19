@@ -1,7 +1,7 @@
 ### Olá, meu nome é Luis Pastura 👋
 - 🚀 Data Scientist | Transformando dados em decisões inteligentes 📊 | Apaixonado por aprendizado de máquina, visualização de dados e storytelling 📈
 
-### What I know:
+### Pratico diariamente:
 <div>
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-R" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
