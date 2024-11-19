@@ -1,17 +1,24 @@
 ### Olá, meu nome é Luis Pastura 👋
+- 🚀 Data Scientist | Transformando dados em decisões inteligentes 📊 | Apaixonado por aprendizado de máquina, visualização de dados e storytelling 📈
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-pastura-macedo-800b52242/)
+### What I know:
+<div>
+  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luis-R" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img align="center" alt="Luis-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+</div>
 
-![Luis Pastura's GitHub stats](https://github-readme-stats.vercel.app/api?username=luispastura&show_icons=true&theme=dracula)
+##
 
-## Tecnologias que uso no meu dia a dia!
+<div>
+  <img height='130cm' src="https://github-readme-stats.vercel.app/api/top-langs/?username=luispastura&layout=compact&langs_count=16&theme=vue"/>
+</div>
+
+## Acesse meu Linkedin!
 
 <div style="display: inline_block">
-  <img align="center" alt="MySQL" src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/>
-  <img align="center" alt="python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
-  <img align="center" alt="kaggle" src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white />
-  <img align="center" alt="R" src=https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white/>
-  <img align="center" alt="MySQL" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white>
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-pastura-macedo-800b52242/)
 </div><br/>
     
 
